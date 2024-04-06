@@ -1,35 +1,14 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+# Johann Gustavo Adam
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+![JohannAdam](./assets/JohannAdam.jpg)
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+¬°Hola, gente! ¬øComo estan? Me presento, me llamo Johann, soy estudiante de la Universidad Nacional de Hurlingham (UNAHUR) desde 2020 (Si arranque en la pandemia ajaja) y es mi primera vez en esta materia de programaci√≥n orientaci√≥n a objetos, me costo mucho llegar pero se pudo. Ya hab√≠a cursado antes cosas relacionadas a esta materia, por ejemplo, el programa que ense√±a a programar desde cero de parte del gobierno llamado Argentina Programa, la verdad se aprende muy bien ah√≠ y sirve demasiado si estas cursando programaci√≥n Estructurada o a√∫n mejor, esta materia de Programaci√≥n con Objetos I y tambi√©n calculo que debe ayudar Programaci√≥n con Objetos II (Desconozco los temas que se van a ver pero los cursos de parte del gobierno eran muy completos).
+Actualmente estoy estudiando la carrera Tecnicatura Universitaria en Programaci√≥n y trabajando en una librer√≠a en Ituzaing√≥, ambos me mantienen bien cuidado al final del d√≠a, el estudio y trabajar a la par no parece tan bueno a veces pero en mi caso, me encanta.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+Me manejo muy bien trabajando en equipo, en trabajo o para tareas grupales de la universidad. Me gusta que quieran tratar de meternos m√°s en lo que es el trabajo grupal o en equipo, nos va a servir bastante para nuestra labor para cuando consigamos trabajo de lo que estudiamos hoy en d√≠a y en otras circunstancias de la vida tambi√©n. Me gusta la m√∫sica, much√≠simo cuando hago las gu√≠as de programaci√≥n ajaja, tambi√©n los juegos como tipo hobbie para relajar para un d√≠a largo, me gusta salir a tomar caf√© o alguna otra bebida, con amigos o compa√±eros.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Y nada, creo que esto por ahora, gente. Esta cursada se me es extra√±a pero le voy a meter ganas, les deseo una muy buena cursada a todos y todas, gracias! 
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
